@@ -1,0 +1,185 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
+
+  /* ── Professional Palette: Royal Indigo + Mint Teal ──────── */
+
+  /* Primary – Royal Indigo (trust, sophistication, design-savvy) */
+  --color-ozone-blue: #2D3BCC;   /* was navy, now vivid indigo */
+
+  /* Accent A – Mint Teal (fresh, modern, approachable) */
+  --color-solar-yellow: #00C9A7; /* replaces yellow with mint teal */
+
+  /* Accent B – Coral Salmon (warm, used only on hover/CTAs) */
+  --color-horizon-orange: #FF6B6B;
+
+  /* Backgrounds */
+  --color-sky-100: #F4F6FF;      /* barely-there indigo tint */
+  --color-sky-200: #E2E7FF;      /* card borders, section dividers */
+  --color-sky-500: #818CF8;      /* mid indigo, for secondary text accents */
+
+  /* Text scale */
+  --color-ink-900: #12103F;      /* deep navy-black */
+  --color-ink-800: #1E1B4B;
+  --color-ink-700: #2D2A72;
+  --color-ink-500: #6B7294;
+  --color-ink-400: #8B90B8;
+  --color-ink-300: #A8ADCC;
+  --color-ink-200: #C5C9DF;
+  --color-ink-100: #E2E5F0;
+
+  @keyframes slideInUp {
+    from { opacity: 0; transform: translateY(40px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes lineDraw {
+    from { transform: scaleX(0); }
+    to   { transform: scaleX(1); }
+  }
+
+  @keyframes mintPulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(0, 201, 167, 0.4); }
+    50%       { box-shadow: 0 0 0 10px rgba(0, 201, 167, 0); }
+  }
+}
+
+/* ── Base ───────────────────────────────────────────────────── */
+* { box-sizing: border-box; }
+
+body {
+  background-color: #F4F6FF;
+  color: #12103F;
+  overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.01em;
+}
+
+::selection { background: #00C9A7; color: #12103F; }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #F4F6FF; }
+::-webkit-scrollbar-thumb { background: #2D3BCC; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #00C9A7; }
+
+/* ── Blueprint Grid ─────────────────────────────────────────── */
+.bg-blueprint {
+  background-image:
+    linear-gradient(rgba(45, 59, 204, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(45, 59, 204, 0.04) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+/* ── Cards ──────────────────────────────────────────────────── */
+.solar-card {
+  background: #ffffff;
+  border: 1.5px solid #E2E7FF;
+  border-radius: 1.25rem;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+/* Hover: indigo hard shadow — clean and premium */
+.solar-card:hover {
+  border-color: #00C9A7;
+  box-shadow: 4px 4px 0 0 #00C9A7;
+  transform: translate(-2px, -2px);
+}
+
+/* ── Tag Pill ───────────────────────────────────────────────── */
+.tag-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.85rem;
+  border-radius: 9999px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* ── Accent line ────────────────────────────────────────────── */
+.accent-line {
+  display: block;
+  height: 3px;
+  background: linear-gradient(90deg, #2D3BCC, #00C9A7);
+  transform-origin: left;
+  animation: lineDraw 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ── Buttons ────────────────────────────────────────────────── */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.875rem 2rem;
+  border-radius: 9999px;
+  background: #2D3BCC;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: 0.02em;
+  transition: background 0.25s, transform 0.2s, box-shadow 0.25s;
+}
+.btn-primary:hover {
+  background: #00C9A7;
+  color: #12103F;
+  box-shadow: 0 8px 28px rgba(0, 201, 167, 0.3);
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.875rem 2rem;
+  border-radius: 9999px;
+  background: transparent;
+  color: #2D3BCC;
+  font-weight: 700;
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: 0.02em;
+  border: 2px solid #2D3BCC;
+  transition: background 0.25s, color 0.25s, transform 0.2s, border-color 0.25s;
+}
+.btn-secondary:hover {
+  background: #2D3BCC;
+  color: #00C9A7;
+  transform: translateY(-2px);
+}
+
+/* ── Mint pulse badge ───────────────────────────────────────── */
+.solar-badge {
+  animation: mintPulse 2.5s infinite;
+}
+
+/* ── Navbar ─────────────────────────────────────────────────── */
+.nav-solar {
+  background: rgba(244, 246, 255, 0.88);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border-bottom: 1.5px solid #E2E7FF;
+}
+
+/* ── Gradient text ──────────────────────────────────────────── */
+.text-solar-gradient {
+  background: linear-gradient(135deg, #2D3BCC 0%, #00C9A7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Hard shadow card (experience) ─────────────────────────── */
+.hard-card {
+  background: #ffffff;
+  border: 2px solid #E2E7FF;
+  border-radius: 1.25rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+.hard-card:hover {
+  border-color: #2D3BCC;
+  transform: translate(-3px, -3px);
+  box-shadow: 6px 6px 0 0 #2D3BCC;
+}

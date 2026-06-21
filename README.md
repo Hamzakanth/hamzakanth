@@ -1,16 +1,406 @@
-# React + Vite
+# <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Hamza%20Iqbal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI-Powered+Product+Builder;React+%7C+Node.js+%7C+Python;Building+Scalable+Digital+Products" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<br>
 
-## React Compiler
+![Bachelor's Degree](https://img.shields.io/badge/Bachelor%20of%20Computer%20Science-Air%20University-7C3AED?style=for-the-badge)
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-6366F1?style=for-the-badge)
+![Pakistan](https://img.shields.io/badge/Islamabad-Pakistan-8B5CF6?style=for-the-badge)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<br>
 
-## Expanding the ESLint configuration
+<a href="https://hamzakanth.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<a href="https://www.linkedin.com/in/hamza-iqbal-kanth">
+<img src="https://img.shields.io/badge/LinkedIn-Hamza%20Iqbal-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hamzakanth980@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HamzaKanth">
+<img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=HamzaKanth\&style=for-the-badge\&color=7C3AED)
+![](https://img.shields.io/github/followers/HamzaKanth?style=for-the-badge\&color=6366F1)
+![](https://img.shields.io/github/stars/HamzaKanth?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=A855F7)
+
+</div>
+
+---
+
+# About Me
+
+Software Engineer focused on building scalable web and mobile applications, AI-powered solutions, and enterprise-grade digital products.
+
+With professional experience across freelance development, contract engineering roles, and academic projects, I specialize in transforming business requirements into reliable, production-ready systems.
+
+My expertise spans full-stack development, product engineering, UI/UX design, API architecture, cloud-native development, and AI-assisted software delivery.
+
+### Open To
+
+* Software Engineering Roles
+* Full Stack Development
+* Frontend Engineering
+* AI Product Development
+* React & React Native Projects
+* Open Source Collaboration
+* Remote Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain                  | Proficiency  | Details                                     |
+| ----------------------- | ------------ | ------------------------------------------- |
+| AI-Assisted Development | Advanced     | GitHub Copilot, Cursor, ChatGPT Integration |
+| LLM Applications        | Intermediate | LangChain, Prompt Engineering, AI Agents    |
+| RAG Systems             | Intermediate | Vector Search & Knowledge Retrieval         |
+| Data Analysis           | Intermediate | Python Automation & Data Processing         |
+| AI Product Engineering  | Advanced     | AI Integration into Production Applications |
+| Workflow Automation     | Advanced     | Process Optimization & Automation Systems   |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🏠 HomeSphere Residencia</b></summary>
+
+### Enterprise Housing Management Platform
+
+| Category    | Details                           |
+| ----------- | --------------------------------- |
+| Stack       | React Native, Node.js, SQL Server |
+| Scale       | Multi-user Property Management    |
+| Performance | Optimized API Response Times      |
+| Security    | RBAC Authentication               |
+| Impact      | Streamlined Housing Operations    |
+| Repository  | Coming Soon                       |
+
+Developed a complete housing management ecosystem enabling residents, administrators, and management teams to interact through a centralized platform. Implemented secure authentication, role-based permissions, database optimization, and scalable API architecture.
+
+</details>
+
+<details>
+<summary><b>🤖 AI Customer Support Assistant</b></summary>
+
+### AI-Powered Conversational Platform
+
+| Category    | Details                          |
+| ----------- | -------------------------------- |
+| Stack       | Python, LangChain, OpenAI, Flask |
+| Scale       | Multi-session Chat Support       |
+| Performance | Real-time Token Streaming        |
+| Security    | Secure API Architecture          |
+| Impact      | Automated Customer Queries       |
+| Repository  | Coming Soon                      |
+
+Designed and implemented a conversational AI platform supporting contextual interactions, response streaming, memory retention, and scalable deployment capabilities.
+
+</details>
+
+<details>
+<summary><b>📊 Enterprise Admin Dashboard</b></summary>
+
+### Analytics & Operations Platform
+
+| Category    | Details                      |
+| ----------- | ---------------------------- |
+| Stack       | React, Node.js, MySQL        |
+| Scale       | Enterprise Users             |
+| Performance | Optimized Frontend Rendering |
+| Security    | JWT Authentication           |
+| Impact      | Business Intelligence        |
+| Repository  | Coming Soon                  |
+
+Built enterprise dashboard interfaces featuring analytics visualization, user management, reporting systems, and operational monitoring capabilities.
+
+</details>
+
+<details>
+<summary><b>🌐 Portfolio Platform</b></summary>
+
+### Personal Engineering Brand
+
+| Category    | Details                       |
+| ----------- | ----------------------------- |
+| Stack       | React, Tailwind, Vercel       |
+| Scale       | Public Portfolio              |
+| Performance | High Lighthouse Score         |
+| Security    | Secure Deployment             |
+| Impact      | Professional Branding         |
+| Repository  | Public                        |
+| Website     | https://hamzakanth.vercel.app |
+
+Created a modern developer portfolio highlighting projects, experience, technical expertise, and professional achievements.
+
+</details>
+
+---
+
+# Experience
+
+## Frontend Developer — Metrico Dev
+
+**Aug 2025 – Apr 2026**
+
+Developed modern web applications and responsive interfaces using React ecosystem technologies.
+
+### Scope of Work
+
+* Built reusable React components
+* Developed scalable frontend architectures
+* Improved performance and maintainability
+* Collaborated within agile teams
+* Leveraged AI-assisted development workflows
+
+**Skills**
+
+`React` `JavaScript` `Tailwind CSS` `GitHub` `Agile Development`
+
+---
+
+## Freelance Developer (Level 5) — Insolvo
+
+**Dec 2023 – Nov 2025**
+
+Successfully delivered 50+ client projects across web development, mobile applications, APIs, and automation solutions.
+
+### Scope of Work
+
+* Full-stack application development
+* RESTful API implementation
+* Database design and integration
+* Performance optimization
+* Technical consulting
+
+**Skills**
+
+`React` `Node.js` `Python` `SQL` `API Development`
+
+---
+
+## Web Developer Intern — Air University
+
+**Jul 2024 – Sep 2024**
+
+Worked on web applications, integrations, UI enhancement initiatives, and software optimization tasks.
+
+### Scope of Work
+
+* Frontend Development
+* API Integrations
+* Debugging
+* Performance Improvement
+* User Experience Enhancement
+
+**Skills**
+
+`JavaScript` `HTML` `CSS` `Git`
+
+---
+
+# Achievements
+
+| Recognition               | Details                                   |
+| ------------------------- | ----------------------------------------- |
+| 50+ Projects Delivered    | Successfully completed freelance projects |
+| Full Stack Expertise      | Frontend, Backend & Database Engineering  |
+| AI Product Development    | Integrated AI solutions into applications |
+| Enterprise Development    | Worked on scalable production systems     |
+| Cross-Platform Experience | Web & Mobile Application Development      |
+
+---
+
+# Certifications
+
+## AWS
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge\&logo=amazonaws)
+
+## Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge\&logo=oracle)
+
+## Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
+
+## NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaKanth&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaKanth&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKanth&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HamzaKanth&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaKanth&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HamzaKanth/HamzaKanth/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced System Design
+  - Cloud Architecture
+  - AI Engineering
+  - Scalable Backend Systems
+
+Building:
+  - AI Agents
+  - SaaS Applications
+  - Enterprise Dashboards
+  - Automation Platforms
+
+Exploring:
+  - LangChain
+  - RAG Systems
+  - LLM Workflows
+  - Cloud Native Development
+
+Open_To:
+  - Software Engineering Roles
+  - Full Stack Opportunities
+  - AI Product Development
+  - Freelance Consulting
+  - Remote Positions
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:hamzakanth980@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hamza-iqbal-kanth">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HamzaKanth">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://hamzakanth.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://insolvo.com/portfolio/tNmIuB">
+<img src="https://img.shields.io/badge/Insolvo-Portfolio-6366F1?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building scalable software, AI-powered products, and impactful digital experiences."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>

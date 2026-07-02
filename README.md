@@ -101,79 +101,184 @@ My expertise spans full-stack development, product engineering, UI/UX design, AP
 
 # Featured Projects
 
-<details>
-<summary><b>🏠 HomeSphere Residencia</b></summary>
+<details open>
+<summary><b>🛒 TechVerse E-Store — Modern Full-Stack E-commerce Platform</b></summary>
 
-### Enterprise Housing Management Platform
+### My Role
+**Full-Stack Developer**
 
-| Category    | Details                           |
-| ----------- | --------------------------------- |
-| Stack       | React Native, Node.js, SQL Server |
-| Scale       | Multi-user Property Management    |
-| Performance | Optimized API Response Times      |
-| Security    | RBAC Authentication               |
-| Impact      | Streamlined Housing Operations    |
-| Repository  | Coming Soon                       |
+### Project Description
 
-Developed a complete housing management ecosystem enabling residents, administrators, and management teams to interact through a centralized platform. Implemented secure authentication, role-based permissions, database optimization, and scalable API architecture.
+Built a production-ready e-commerce platform with a React + Vite frontend and a Node.js + Express backend powered by MongoDB.
 
-</details>
+Features include:
 
-<details>
-<summary><b>🤖 AI Customer Support Assistant</b></summary>
+- Product catalog browsing
+- Smart search & filtering
+- User Authentication
+- Shopping cart
+- Stripe payment integration
+- Webhook payment verification
+- Order management
+- Real-time customer/admin chat using Socket.io
+- Admin dashboard
+- Scalable backend architecture ready for Redis & BullMQ
 
-### AI-Powered Conversational Platform
+### Skills
 
-| Category    | Details                          |
-| ----------- | -------------------------------- |
-| Stack       | Python, LangChain, OpenAI, Flask |
-| Scale       | Multi-session Chat Support       |
-| Performance | Real-time Token Streaming        |
-| Security    | Secure API Architecture          |
-| Impact      | Automated Customer Queries       |
-| Repository  | Coming Soon                      |
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Stripe`
+`Socket.io`
+`REST APIs`
+`JWT`
 
-Designed and implemented a conversational AI platform supporting contextual interactions, response streaming, memory retention, and scalable deployment capabilities.
-
-</details>
-
-<details>
-<summary><b>📊 Enterprise Admin Dashboard</b></summary>
-
-### Analytics & Operations Platform
-
-| Category    | Details                      |
-| ----------- | ---------------------------- |
-| Stack       | React, Node.js, MySQL        |
-| Scale       | Enterprise Users             |
-| Performance | Optimized Frontend Rendering |
-| Security    | JWT Authentication           |
-| Impact      | Business Intelligence        |
-| Repository  | Coming Soon                  |
-
-Built enterprise dashboard interfaces featuring analytics visualization, user management, reporting systems, and operational monitoring capabilities.
+Repository:
+https://github.com/Hamzakanth/E-store
 
 </details>
 
+---
+
 <details>
-<summary><b>🌐 Portfolio Platform</b></summary>
+<summary><b>🤖 ChatUI — AI Voice Assistant Platform</b></summary>
 
-### Personal Engineering Brand
+### My Role
 
-| Category    | Details                       |
-| ----------- | ----------------------------- |
-| Stack       | React, Tailwind, Vercel       |
-| Scale       | Public Portfolio              |
-| Performance | High Lighthouse Score         |
-| Security    | Secure Deployment             |
-| Impact      | Professional Branding         |
-| Repository  | Public                        |
-| Website     | https://hamzakanth.vercel.app |
+**Full-Stack AI Developer (Backend Focus)**
 
-Created a modern developer portfolio highlighting projects, experience, technical expertise, and professional achievements.
+### Project Description
+
+Developed a Flask-powered conversational AI platform capable of delivering low-latency streaming responses.
+
+Implemented:
+
+- Token Streaming
+- LangChain Conversation Memory (k=10)
+- RESTful `/chat` API
+- Context-aware conversations
+- Optimized response performance
+- Scalable architecture
+
+### Tech Stack
+
+Python
+
+Flask
+
+LangChain
+
+LLMs
+
+REST APIs
+
+Streaming Responses
+
+### Skills
+
+`LangChain`
+`Prompt Engineering`
+`Conversational AI`
+`Streaming APIs`
+`Flask`
+
+Private Repository
+
+https://github.com/Hamzakanth/Chat-Bot
 
 </details>
 
+---
+
+<details>
+<summary><b>🛡️ IronWatch Security — Marketing Website</b></summary>
+
+### My Role
+
+**Frontend Developer & UI Designer**
+
+### Project Description
+
+Designed and developed a high-performance marketing website using Framer.
+
+Highlights:
+
+- Responsive Design
+- SEO Optimization
+- Open Graph Tags
+- Twitter Preview Cards
+- Performance Optimization
+- CTA-focused Layout
+- Fast Static Delivery
+
+### Skills
+
+`Framer`
+
+`UI Design`
+
+`SEO`
+
+`Responsive Design`
+
+`Performance Optimization`
+
+Website
+
+https://ironwatch.uk/
+
+Repository
+
+https://github.com/Hamzakanth/IronWatch
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 AI Job Tracking System</b></summary>
+
+### My Role
+
+**Full-Stack Developer**
+
+### Project Description
+
+Built a modern job application management platform that tracks applications across LinkedIn, Upwork, Indeed and other platforms.
+
+Features include:
+
+- Job Tracking Dashboard
+- Daily streak system
+- AI Cover Letter Generator
+- AI Job Assistant Chatbot
+- Application Scheduling
+- Analytics
+- Productivity Insights
+
+Built using React (Vite + Tailwind) and FastAPI.
+
+### Skills
+
+`React`
+
+`FastAPI`
+
+`Python`
+
+`AI Integration`
+
+`LLMs`
+
+`Dashboard Development`
+
+Repository
+
+https://github.com/Hamzakanth/job-tracking-web
+
+</details>
 ---
 
 # Experience

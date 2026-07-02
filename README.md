@@ -259,7 +259,7 @@ Worked on web applications, integrations, UI enhancement initiatives, and softwa
 
 ## Front-End Developer Specialization
 
-![Meta](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
+![Meta]()
 
 
 ---

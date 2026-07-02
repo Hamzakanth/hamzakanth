@@ -252,21 +252,15 @@ Worked on web applications, integrations, UI enhancement initiatives, and softwa
 
 # Certifications
 
-## AWS
+## Relational Database Design
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge\&logo=amazonaws)
+![CU boulder](https://www.coursera.org/account/accomplishments/verify/LZB555UFCW36?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-## Oracle
 
-![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge\&logo=oracle)
+## Front-End Developer Specialization
 
-## Cisco
+![Meta](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
 
 ---
 

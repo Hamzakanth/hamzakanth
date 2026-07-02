@@ -291,15 +291,7 @@ Worked on web applications, integrations, UI enhancement initiatives, and softwa
 
 ---
 
-# Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HamzaKanth/HamzaKanth/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 

@@ -28,12 +28,6 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=HamzaKanth\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/HamzaKanth?style=for-the-badge\&color=6366F1)
-![](https://img.shields.io/github/stars/HamzaKanth?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=A855F7)
-
 </div>
 
 ---
@@ -102,183 +96,58 @@ My expertise spans full-stack development, product engineering, UI/UX design, AP
 # Featured Projects
 
 <details open>
-<summary><b>🛒 TechVerse E-Store — Modern Full-Stack E-commerce Platform</b></summary>
+<summary><b>🛒 TechVerse E-Store — Modern Full-Stack E-Commerce Platform</b></summary>
 
-### My Role
-**Full-Stack Developer**
+**Role:** Full-Stack Developer
 
-### Project Description
+Built a responsive e-commerce web application with a React + Vite frontend and a Node.js + Express backend with MongoDB. Implemented product catalog browsing, search and dynamic filters, user authentication, cart checkout, Stripe payment flow with webhook support, order management, and real-time customer/admin chat using Socket.io. Includes an admin dashboard for managing users, products, and orders, plus a scalable backend architecture ready for Redis/BullMQ queueing enhancements.
 
-Built a production-ready e-commerce platform with a React + Vite frontend and a Node.js + Express backend powered by MongoDB.
+**Skills & Deliverables:** Full-Stack Development · API Integration · Chat & Messaging Software · Payment Gateway · Analytics Dashboard
 
-Features include:
-
-- Product catalog browsing
-- Smart search & filtering
-- User Authentication
-- Shopping cart
-- Stripe payment integration
-- Webhook payment verification
-- Order management
-- Real-time customer/admin chat using Socket.io
-- Admin dashboard
-- Scalable backend architecture ready for Redis & BullMQ
-
-### Skills
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`Stripe`
-`Socket.io`
-`REST APIs`
-`JWT`
-
-Repository:
-https://github.com/Hamzakanth/E-store
+**Repository:** [github.com/Hamzakanth/E-store](https://github.com/Hamzakanth/E-store.git)
 
 </details>
-
----
 
 <details>
-<summary><b>🤖 ChatUI — AI Voice Assistant Platform</b></summary>
+<summary><b>🎙️ ChatUI — Voice Assistant AI</b></summary>
 
-### My Role
+**Role:** Full-Stack AI Developer (Backend Focus)
 
-**Full-Stack AI Developer (Backend Focus)**
+Built a Flask-based conversational AI application that delivers real-time, low-latency responses through token streaming. Implemented context-aware conversations using LangChain's `ConversationBufferWindowMemory` (k=10) to retain recent interactions. Developed a RESTful `/chat` endpoint for handling user messages and streaming AI-generated responses, focused on performance, scalability, and seamless user experience.
 
-### Project Description
+**Tech Stack:** Python, Flask, LangChain, LLMs, REST APIs, Streaming Responses
 
-Developed a Flask-powered conversational AI platform capable of delivering low-latency streaming responses.
+**Skills & Deliverables:** LLM Prompt Engineering · LangChain · AI Chatbot · Conversational AI · Real-Time Stream Processing
 
-Implemented:
-
-- Token Streaming
-- LangChain Conversation Memory (k=10)
-- RESTful `/chat` API
-- Context-aware conversations
-- Optimized response performance
-- Scalable architecture
-
-### Tech Stack
-
-Python
-
-Flask
-
-LangChain
-
-LLMs
-
-REST APIs
-
-Streaming Responses
-
-### Skills
-
-`LangChain`
-`Prompt Engineering`
-`Conversational AI`
-`Streaming APIs`
-`Flask`
-
-Private Repository
-
-https://github.com/Hamzakanth/Chat-Bot
+**Repository:** Private — [github.com/Hamzakanth/Chat-Bot](https://github.com/Hamzakanth/Chat-Bot.git)
 
 </details>
-
----
 
 <details>
 <summary><b>🛡️ IronWatch Security — Marketing Website</b></summary>
 
-### My Role
+**Role:** Frontend Developer & UI Designer
 
-**Frontend Developer & UI Designer**
+Designed and developed a professional marketing website for IronWatch Security, a security services brand, using Framer as the primary development platform. The site features a fully responsive layout across all screen sizes, service highlight sections, and clear call-to-action blocks to drive client inquiries. Special attention was given to performance and discoverability — including SEO metadata, Open Graph and Twitter preview tags for rich social sharing, custom typography, and optimized static asset loading for fast page delivery.
 
-### Project Description
-
-Designed and developed a high-performance marketing website using Framer.
-
-Highlights:
-
-- Responsive Design
-- SEO Optimization
-- Open Graph Tags
-- Twitter Preview Cards
-- Performance Optimization
-- CTA-focused Layout
-- Fast Static Delivery
-
-### Skills
-
-`Framer`
-
-`UI Design`
-
-`SEO`
-
-`Responsive Design`
-
-`Performance Optimization`
-
-Website
-
-https://ironwatch.uk/
-
-Repository
-
-https://github.com/Hamzakanth/IronWatch
+**Live Site:** [ironwatch.uk](https://ironwatch.uk/)
+**Repository:** [github.com/Hamzakanth/IronWatch](https://github.com/Hamzakanth/IronWatch.git)
 
 </details>
-
----
 
 <details>
-<summary><b>📋 AI Job Tracking System</b></summary>
+<summary><b>📋 Automated Job Tracking System</b></summary>
 
-### My Role
+**Role:** Full-Stack Developer
 
-**Full-Stack Developer**
+Built a full-stack system to track job applications submitted across multiple platforms (LinkedIn, Upwork, Indeed), with scheduling and a streak system to keep users motivated. Added AI features to instantly generate tailored cover letters, plus a chatbot to discuss and surface information about specific job listings.
 
-### Project Description
+**Tech Stack:** React (Vite, Tailwind), FastAPI (Python)
 
-Built a modern job application management platform that tracks applications across LinkedIn, Upwork, Indeed and other platforms.
-
-Features include:
-
-- Job Tracking Dashboard
-- Daily streak system
-- AI Cover Letter Generator
-- AI Job Assistant Chatbot
-- Application Scheduling
-- Analytics
-- Productivity Insights
-
-Built using React (Vite + Tailwind) and FastAPI.
-
-### Skills
-
-`React`
-
-`FastAPI`
-
-`Python`
-
-`AI Integration`
-
-`LLMs`
-
-`Dashboard Development`
-
-Repository
-
-https://github.com/Hamzakanth/job-tracking-web
+**Repository:** [github.com/Hamzakanth/job-tracking-web](https://github.com/Hamzakanth/job-tracking-web.git)
 
 </details>
+
 ---
 
 # Experience
@@ -357,15 +226,10 @@ Worked on web applications, integrations, UI enhancement initiatives, and softwa
 
 # Certifications
 
-## Relational Database Design
-
-![CU boulder](https://www.coursera.org/account/accomplishments/verify/LZB555UFCW36?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
-
-## Front-End Developer Specialization
-
-![Meta]()
-
+| Certification                          | Issuer               | Verify |
+| --------------------------------------- | --------------------- | ------ |
+| Relational Database Design              | University of Colorado Boulder (Coursera) | [View Credential](https://www.coursera.org/account/accomplishments/verify/LZB555UFCW36) |
+| Front-End Developer Specialization      | Meta (Coursera)       | Coming Soon |
 
 ---
 
